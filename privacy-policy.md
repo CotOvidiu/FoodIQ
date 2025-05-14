@@ -5,7 +5,7 @@ Effective date: [May 14, 2025]
 **[FoodIQ]** ("we", "our", or "us") is committed to protecting your privacy.
 
 This Privacy Policy describes how your personal information is handled in our app.
-
+wqw
 ## 1. Information We Do Not Collect
 
 We do **not** collect, store, or share any personal information when you use our app.
